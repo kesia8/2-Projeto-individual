@@ -1,0 +1,26 @@
+/*Deixar site responsivo */
+@media (max-width:915px) {
+
+    .container {
+      margin-top: 60px;
+      width: 100%;
+  
+    }
+  
+    .escolha select {
+      width: 100%;
+    }
+  
+    .selecionapassos input {
+      width: 100%;
+    }
+  
+    .criptografar button {
+      width: 100%;
+    }
+  
+    footer {
+      position: fixed;
+    }
+  }
+ 
